@@ -20,76 +20,28 @@
 
 ## Diagrama de clases
 
-![](/files/clases.emf)
+![](/files/clases.jpg)
 
 ## Diagrama de entidad-relación
 
-![](/files/entidad.emf)
+![](/files/entidad.jpg)
 
 ## Solución global arquitectura
 
-![](/files/Arquitectura%20deseada.pngg)
-
-## Diagrama de despliegue
-
-![](/img/despliegue.png)
-
-## Diagrama C&C
-
-![](/img/C&C.png)
-
-# Prototipo
-
-## Registro
-
-![](img/registro.jpeg)
-
-## Login
-
-![](img/login.jpeg)
-
-## Posts
-
-![](img/posts.jpeg) 
-
-## Creación posts
-
-![](img/Creacion%20posts.jpeg)
-
-# Manuales de usuario
-
-## [Manual de usuario Social basico](https://github.com/social-neighborhood/social-neighborhood/raw/main/manuales/Manual%20de%20usuario%20Social%20basico.pdf)
-
-## [Manual de usuario Social residentes](https://github.com/social-neighborhood/social-neighborhood/raw/main/manuales/Manual%20de%20usuario%20Social%20residentes.pdf)
-
-## [Manual de usuario Social administradores](https://github.com/social-neighborhood/social-neighborhood/raw/main/manuales/Manual%20de%20usuario%20Social%20administradores.pdf)
-
-# Requerimientos no funcionales
-
-## [Laboratiorio en azure de disponibilidad de servicio back](https://github.com/social-neighborhood/social-neighborhood/raw/main/Requerimientos%20no%20funcionales/Explicacion%20disponibildad.mp4)
-
-## [Muestra cambio Usabilidad minimalista, estetica y diseño](https://github.com/social-neighborhood/social-neighborhood/raw/main/Requerimientos%20no%20funcionales/Usabilidad.pptx)
-
-# Enlace Taiga
-[![Managed with Taiga.io](https://img.shields.io/badge/managed%20with-TAIGA.io-709f14.svg)](https://tree.taiga.io/project/richardug-social-neighborhood/backlog)
+> Se plantea realizar una solución global, que a su vez sea multiusuario con trabajo en tiempo real;de código extensible para así evitar que se convierta en una aplicación "legacy", elástica y además que sea desplegable en la nube
 
 
-# Enlace heroku
+![](/files/Arquitectura%20deseada.png)
 
-[![](/img/herokuimg.png)](https://socialneighborhoodapp.herokuapp.com/)
+## Prototipo
 
-# Front-End
+> Para esta fase de prototipo implementamos la lógica de la base de datos, de que datos se deberían manejar y que tablas deberíamos crear, un cliente Nodejs web que nos de la experiencia de usuario que desearíamos que los usuarios finales tuvieran y la lógica necesaria de back end para poder mostrar ciertas funcionalidades de manera activa.
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fb2f181d840442eda823bfc21db2d035)](https://www.codacy.com/gh/social-neighborhood/social-neighborhood-front-end/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=social-neighborhood/social-neighborhood-front-end&amp;utm_campaign=Badge_Grade)
+![](/files/prototipo.png)
 
-[![CircleCI](https://circleci.com/gh/social-neighborhood/social-neighborhood-front-end/tree/main.svg?style=svg)](https://circleci.com/gh/social-neighborhood/social-neighborhood-front-end/tree/main)
+# Paper
 
-# Back-End
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c5df6638357046ba9711999da8a24d9f)](https://www.codacy.com/gh/social-neighborhood/social-neighborhood-back-end/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=social-neighborhood/social-neighborhood-back-end&amp;utm_campaign=Badge_Grade)
-
-
-[![CircleCI](https://circleci.com/gh/social-neighborhood/social-neighborhood-back-end/tree/main.svg?style=svg&circle-token=ede44e37f085d05e72430f46c171d21b5de2adea)](https://circleci.com/gh/social-neighborhood/social-neighborhood-back-end/tree/main)
+## [Cacu paper](https://github.com/Ca-Cu/CACU/blob/main/files/Paper.pdf)
 
 # Licencia & Derechos de Autor
 
