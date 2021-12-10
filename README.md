@@ -5,31 +5,30 @@
   * [Juan Camilo Posso Guevara](https://github.com/JCPosso)
   * [Richard Santiago Urrea Garcia](https://github.com/RichardUG)
 
-# Resumen
-> [Social neighborhood](https://github.com/social-neighborhood/social-neighborhood) es una solución informática la cual busca facilitar para los habitantes de los conjuntos residenciales tramites como pagos de servicios internos del conjunto, separación de espacios sociales, comunicación entre administrador-propietarios y propietarios-propietarios, brindándoles una herramienta optima y de fácil uso, con la cual se sientan cómodos y la puedan aprovechar al máximo.
-> 
 # Descripción
-> El software [Social neighborhood](https://github.com/social-neighborhood/social-neighborhood) busca brindar un contacto más fácil entre administrador y residentes evitando problemas como falta de comunicación y posibilitando un acceso más fácil a información actual o pasada y a la vez una fácil gestión de pagos de los servicios que el conjunto presta (administración, parqueadero, gimnasio, etc.); sin embargo software de este tipo ya existen, por lo cual se opta por brindar un par de servicios más como es el caso de crear un canal de comunicación vía publicaciones (tipo post) en el cual los residentes puedan brindarse información entre ellos de una manera más general y fácil de propagar y por ultimo un espacio donde se pueda apartar las zonas sociales (piscina, salón comunal, cancha, sauna, etc.) quitando así el tiempo de espera que tienen los residentes para poder reunirse con la administración y además llevar un óptimo control del manejo y acceso de estas zonas por parte de la administración.
+> La idea de cacu es ser un sistema de gestion y trazabilidad de la información de pacientes mujeres en su historia clinica por la parte del cancer de cuello uterino, la idea es brindar tanto para los especialistas medicos, como para las mujeres una gran facilidad y u facil acceso a información pasada de visitas por parte de la mujer a los especialistas, sin importar si es en otro consultorio, otra eps, si so n consultas independientes o incluso si es en otra ciudad
 > 
-> [Pesentación Social neighborhood](https://github.com/social-neighborhood/social-neighborhood/raw/main/social-neighborhood.pptx)
+> [Pesentación cacu](https://github.com/Ca-Cu/CACU/blob/main/files/Presentaci%C3%B3n%20final.pptx)
 
-## [Back-end](https://github.com/social-neighborhood/social-neighborhood-back-end)
+## [Back-end](https://github.com/Ca-Cu/back-end)
 
-## [Front-end](https://github.com/social-neighborhood/social-neighborhood-front-end)
+## [Front-end](https://github.com/Ca-Cu/front-end)
+
+## [Load balancer](https://github.com/Ca-Cu/loadbalancer)
 
 # Arquitectura y diseño
 
-## Diagrama de casos de uso
+## Diagrama de clases
 
-![](img/casosdeuso.png)
+![](/files/clases.emf)
 
 ## Diagrama de entidad-relación
 
-![](/img/entidad.png)
+![](/files/entidad.emf)
 
-## Diagrama de clases
+## Solución global arquitectura
 
-![](/img/clases.png)
+![](/files/Arquitectura%20deseada.pngg)
 
 ## Diagrama de despliegue
 
