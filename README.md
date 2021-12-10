@@ -41,7 +41,7 @@
 
 # Paper
 
-## [Cacu paper](https://github.com/Ca-Cu/CACU/blob/main/files/Paper.pdf)
+## [Cacu paper.pdf](https://github.com/Ca-Cu/CACU/blob/main/files/Paper.pdf)
 
 # Licencia & Derechos de Autor
 
